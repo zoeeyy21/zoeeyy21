@@ -3,7 +3,7 @@
 - 👋 I’m Rizky
 - 👀 I’m interested in technology, web design and mobile app development 
 - ⚡ I'm currently using HTML, CSS, Dart and C# as my programming language
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and React Native
 
 
 <!---
